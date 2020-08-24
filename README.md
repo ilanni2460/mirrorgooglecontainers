@@ -1,2 +1,2 @@
 # mirrorgooglecontainers
-同步google镜像
+同步google镜像metrics-server
