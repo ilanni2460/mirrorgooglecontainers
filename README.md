@@ -1,2 +1,2 @@
 # mirrorgooglecontainers
-同步google镜像metrics-server
+同步kube-state-metrics镜像
